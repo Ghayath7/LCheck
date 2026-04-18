@@ -4,6 +4,11 @@
       "fp": "99a16e7ff4748adffe1ad8b2f7146bf9fd4627aa22d0dbe65df2142c1c161ed3",
       "expires": "2026-12-31",
       "sig": "fd09835b8dacb0910a2b58043a11024901868a2bf7d23199105cffefa321d6cf"
+    },
+    {
+      "fp": "5e10cf59dc37374f3754a1fbeea7340ce29003c7d65d8679b0e3af8b423ad791",
+      "expires": "2026-12-31",
+      "sig": "c38a807b06d24d6888eb77e8432838212f1cc3a64422e5e541cc6ec6147e2080"
     }
   ]
 }
